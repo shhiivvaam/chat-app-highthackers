@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chat-app-highthackers/static/css/main.bbe1dd5b.css",
+    "main.js": "/chat-app-highthackers/static/js/main.830108f4.js",
+    "static/js/787.80d163f7.chunk.js": "/chat-app-highthackers/static/js/787.80d163f7.chunk.js",
+    "index.html": "/chat-app-highthackers/index.html",
+    "main.bbe1dd5b.css.map": "/chat-app-highthackers/static/css/main.bbe1dd5b.css.map",
+    "main.830108f4.js.map": "/chat-app-highthackers/static/js/main.830108f4.js.map",
+    "787.80d163f7.chunk.js.map": "/chat-app-highthackers/static/js/787.80d163f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbe1dd5b.css",
+    "static/js/main.830108f4.js"
+  ]
+}
